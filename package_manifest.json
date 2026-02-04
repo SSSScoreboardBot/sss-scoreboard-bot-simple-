@@ -1,0 +1,38 @@
+{
+  "package_name": "SSS_ScoreboardBot_A1_text_MVP",
+  "version": "v1_2026-02-02",
+  "created_utc": "2026-02-02T18:54:43Z",
+  "hub_url": "https://www.reddit.com/r/ShortSqueezeStonks/s/RZJwT0l6wX",
+  "files": [
+    {
+      "path": "README.md",
+      "sha256": "de12573ee95034732aeb4e097cca252797f7998c164b972e34055f58c3748507",
+      "bytes": 2353
+    },
+    {
+      "path": "requirements.txt",
+      "sha256": "f286ae58304f016a3dbc2b4efb20bd10a6bb1408daac43548719ed26277b07ab",
+      "bytes": 41
+    },
+    {
+      "path": "tickers_stopwords.txt",
+      "sha256": "96a264eb1260b1661f59b9371060eaf101102772f265a267d4453d64d39164be",
+      "bytes": 268
+    },
+    {
+      "path": "config.example.json",
+      "sha256": "f981a59cbfd8c30959dd97cd2315a97d245e9c2fe39d2446d5e8e9b74077731e",
+      "bytes": 334
+    },
+    {
+      "path": "bot.py",
+      "sha256": "7160fcab1799aa28743441540a1457b4a1c7bf867cafdf92d8fb85edb9c20add",
+      "bytes": 6313
+    },
+    {
+      "path": ".github/workflows/scoreboard.yml",
+      "sha256": "c5dad60bfa96cbac1839d8e625fe2a33352db2c55befb37d799da11c0d491d19",
+      "bytes": 1297
+    }
+  ]
+}

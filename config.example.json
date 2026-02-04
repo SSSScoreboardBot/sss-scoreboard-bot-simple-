@@ -1,0 +1,36 @@
+{
+  "blend_mode": "SUB_ONLY",
+  "cross_max_tickers": 8,
+  "cross_subs": [
+    {
+      "limit_posts": 40,
+      "lookback_hours": 24,
+      "mode": "hot",
+      "name": "wallstreetbets",
+      "weight": 0.35
+    },
+    {
+      "limit_posts": 40,
+      "lookback_hours": 24,
+      "mode": "hot",
+      "name": "Shortsqueeze",
+      "weight": 0.6
+    },
+    {
+      "limit_posts": 40,
+      "lookback_hours": 24,
+      "mode": "hot",
+      "name": "pennystocks",
+      "weight": 0.45
+    }
+  ],
+  "cross_subs_enabled": false,
+  "hub_url": "https://www.reddit.com/r/ShortSqueezeStonks/s/RZJwT0l6wX",
+  "include_most_upvoted_comment_link": true,
+  "lookback_hours": 24,
+  "max_tickers": 12,
+  "min_author_karma": null,
+  "post_as_reply_to_daily_thread": true,
+  "subreddit": "ShortSqueezeStonks",
+  "thread_title_prefix": "Daily Squeeze Scanner + Discussion"
+}
